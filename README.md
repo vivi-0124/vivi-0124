@@ -1,41 +1,22 @@
-# Hello, I'm Hiroto Toumon!
+# About Me
 
-Welcome to my GitHub profile! Here are some of my projects and interests.
+1. I'm a web frontend and backend developer from Japan
 
-## Skills
+2. My favorites are Next.js, React, TypeScript, Tailwind CSS
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code
+3. You can find [MY PORTFOLIO](https://portfovio.vercel.app/)
 
-## Projects
+![](https://github-readme-stats.vercel.app/api/top-langs?username=vivi-0124)
 
-### [Project Name](https://github.com/username/project)
-Description of the project. What it does, main features, and technologies used.
+## Programming Languages
 
-## Connect with me
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python" /> <br /><br />
 
-- [LinkedIn](https://www.linkedin.com/in/username/)
-- [Twitter](https://twitter.com/username)
-- [Personal Website](https://username.github.io)
+## Frameworks and Library
 
-## Code Snippet
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs," /> <br /><br />
 
-```python
-def hello_world():
-    print("Hello, world!")
+## DB and Dev Tools etc
 
-hello_world()
-```
-
-## 4. プロフィールの装飾
-
-- **バッジ**: Shields.ioを使ってバッジを追加し、スキルやステータスを表示できます。
-- **GIF**: 楽しいアニメーションや画像を追加して、プロフィールを魅力的に見せましょう。
-
-```markdown
-## Badges
-
-![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
-```
+<img src="https://skillicons.dev/icons?i=mysql,supabase,npm,pnpm,bun,git,vercel,vscode" /> <br />
+<img src="https://skillicons.dev/icons?i=notion,obsidian,ai,ps,pr" />
